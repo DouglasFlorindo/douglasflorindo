@@ -15,8 +15,8 @@
   </div>
   <br>
   <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglasflorindo&title_color=140402&text_color=140402&border_color=140402&bg_color=FEFAF2&show_icons=true&icon_color=140402&border_radius=10&rank_icon=default&include_all_commits=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasflorindo&layout=compact&title_color=140402&text_color=140402&border_color=140402&bg_color=FEFAF2&border_radius=10">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglasflorindo&title_color=140402&text_color=140402&border_color=140402&bg_color=FEFAF2&show_icons=true&icon_color=140402&rank_icon=default&include_all_commits=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasflorindo&layout=compact&title_color=140402&text_color=140402&border_color=140402&bg_color=FEFAF2">
   <br>
   <br>
   <a href="mailto: douglasflorindodeassis@gmail.com">
