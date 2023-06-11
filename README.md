@@ -4,6 +4,8 @@
   <br>
   <p color="FEFAF2">Almejo criar experiências interativas novas combinando Arte e Tecnologia, assim como ferramentas das mais diversas funções.</p>
   <br>
+  <p color="FEFAF2">Entusiasta de música, arte, jogos indie e café.</p>
+  <br>
   <p color="FEFAF2">Atualmente cursando Ciência da Computação e estudando Fundamentos da Pintura Digital.</p>
   <br>
   <div style="display: inline_block">
