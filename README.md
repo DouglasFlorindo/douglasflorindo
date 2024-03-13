@@ -2,7 +2,7 @@
 <div align="center">
   <h2 color="FEFAF2">Aspirante a Programador e Artista Digital</h1>
   <br>
-  <p color="FEFAF2">Gosto de fazer coisas divertidas :D</p>
+  <p color="FEFAF2">Gosto de criar coisas.</p>
   <br>
   <p color="FEFAF2">Entusiasta de música, arte, jogos indie e café.</p>
   <br>
