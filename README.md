@@ -4,7 +4,7 @@
   <br>
   <p color="FEFAF2">Gosto de criar coisas.</p>
   <br>
-  <p color="FEFAF2">Entusiasta de música, arte, jogos indie e café.</p>
+  <p color="FEFAF2">Entusiasta de música, arte, jogos indie, softwares open source e café.</p>
   <br>
   <p color="FEFAF2">Atualmente cursando Ciência da Computação e estudando Fundamentos da Pintura Digital.</p>
   <br>
