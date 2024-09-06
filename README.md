@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/mKGq0nT.png"> 
 <div align="center">
-  <h2 color="FEFAF2">Aspirante a Programador e Artista Digital</h1>
+  <h2 color="FEFAF2">Aspirante a Programador, Artista Digital e Game Dev</h1>
   <br>
   <p color="FEFAF2">Gosto de criar coisas.</p>
   <br>
@@ -13,7 +13,7 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-<!--     <img align="center" alt="Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-plain.svg"> -->
+ <img align="center" alt="Godot" height="40" width="40" src="https://godotengine.org/assets/press/icon_color.svg">
   </div>
   <br>
   <br>
