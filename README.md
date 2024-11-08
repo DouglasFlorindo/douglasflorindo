@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/mKGq0nT.png"> 
 <div align="center">
-  <h2 color="FEFAF2">Aspirante a Programador, Artista Digital e Game Dev</h1>
+  <h2 color="FEFAF2">Programador, Artista Digital e Game Dev</h2>
   <br>
   <p color="FEFAF2">Gosto de criar coisas.</p>
   <br>
