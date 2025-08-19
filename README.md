@@ -8,7 +8,7 @@
   <br>
   <p color="FEFAF2">Atualmente cursando Ciência da Computação e estudando Fundamentos da Pintura Digital.</p>
   <br>
-  <a href="https://dfportfolios.netlify.app/">
+  <a href="https://portfolios.dev.br/">
   <img width="700" src="https://pub-6b4bb6d847624ba8b486dcd60fc7109b.r2.dev/portfoliOSBanner.webp">
   </a>
 
